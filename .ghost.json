@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "http://localhost:2371",
+    "contentApiKey": "e2c0ddfd4b06e24daa7d8bc5d6"
+  },
+  "production": {
+    "apiUrl": "https://gatsby.ghost.io",
+    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+  }
+}
